@@ -173,6 +173,29 @@ section {
     margin: auto 0;
 }
 
+.section__text {
+    align-self: center;
+    text-align: center;
+}
+
+.section__text p {
+    font-weight: 600;
+}
+
+.section__text__p1 {
+    text-align: center;
+}
+
+.section__text__p1 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+}
+
 /* https://www.youtube.com/watch?v=ldwlOzRvYOU&t=10s
-52:30
+53:30
 */

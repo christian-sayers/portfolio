@@ -1,12 +1,17 @@
 @media screen and (max-width: 1400px) {
   #profile {
-    height: 73vh;
+    height: 83vh;
     margin-bottom: 6rem;
   }
   .about-containers {
     flex-wrap: wrap;
   }
+  #contact,
+  #projects {
+    height: fit-content;
+  }
 }
+
 @media screen and (max-width: 1200px) {
   #desktop-nav {
     display: none;
@@ -14,7 +19,6 @@
   #hamburger-nav {
     display: flex;
   }
-
   #experience,
   .experience-details-container {
     margin-top: 2rem;
